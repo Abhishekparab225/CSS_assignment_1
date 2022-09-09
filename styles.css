@@ -1,0 +1,8 @@
+h2{color: red;}
+h3{color: red;}
+.text{color: brown;}
+.cross{text-decoration: line-through;font-weight: bold; }
+.back{background-color: yellow; font-weight: 900;}
+.italic{font-style: italic; text-decoration: underline ;}
+.high{background-color: yellow;font-weight: bold;}
+#prepbytes{background-color: yellow; color: red; font-style: italic; font-weight: bold;}
